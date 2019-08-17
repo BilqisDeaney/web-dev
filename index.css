@@ -1,0 +1,13 @@
+.heading{
+    color:green;
+    font-size: 40px;
+    padding: 8px;
+}
+.myStyle{
+    font-size: 100px;
+    padding: 10px;
+}
+.myimageStyle{
+    background-size: cover;
+    background-image: url("images/Facebook.jpg");
+}
